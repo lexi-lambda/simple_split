@@ -1,5 +1,5 @@
 
-# simple_split – dead simple A/B testing on Rails
+# simple_split – dead simple A/B testing on Rails [![Gem Version](https://badge.fury.io/rb/simple_split.svg)](http://badge.fury.io/rb/simple_split) [![Code Climate](https://codeclimate.com/github/lexi-lambda/simple_split/badges/gpa.svg)](https://codeclimate.com/github/lexi-lambda/simple_split) [![Build Status](https://travis-ci.org/lexi-lambda/simple_split.svg?branch=master)](https://travis-ci.org/lexi-lambda/simple_split)
 
 The `simple_split` gem provides the absolute simplest possible support for split
 testing with Rails that could possibly exist. More feature-complete solutions
